@@ -1,0 +1,29 @@
+@font-face {
+    font-family: airbnb-bold;
+    src: url(font-airbnb/airbnb-bold.otf);
+}
+@font-face {
+    font-family: airbnb-book;
+    src: url(font-airbnb/airbnb-book.otf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: airbnb-black;
+    src: url(font-airbnb/airbnb-black.otf);
+}
+@font-face {
+    font-family: airbnb-light;
+    src: url(font-airbnb/airbnb-light.otf);
+}
+@font-face {
+    font-family: airbnb-mid;
+    src: url(font-airbnb/airbnb-mid.otf);
+}
+@font-face {
+    font-family: airbnb-extra;
+    src: url(font-airbnb/airbnb-extra.otf);
+}
+
+body{
+    font-family:airbnb-book;
+}
